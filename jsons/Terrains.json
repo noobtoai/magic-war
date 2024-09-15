@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Canal",
+		"type": "TerrainFeature",
+		"occursOn": ["Land"],
+		"gold": 1,
+		"movementCost": 1,
+		"uniques": [
+			"Doesn't generate naturally","Units ending their turn on this terrain take [50] damage <for [All] units>",
+			"Canal"
+		]
+	},
+  {
+		"name": "Goremu",
+		"type": "TerrainFeature",
+		"occursOn": ["Water","Land"],
+		"gold": 1,
+		"movementCost": 1,
+		"uniques": [
+			"Doesn't generate naturally","Units ending their turn on this terrain take [100] damage <for [All] units>",
+			"Mountain"
+		]
+	},
+	
+]
