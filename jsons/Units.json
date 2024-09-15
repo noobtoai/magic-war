@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Slime",
+		"unitType": "Civilian",
+		"movement": 5,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Steam Power",
+		"uniques": [
+			"Can instantly construct a [Water Bomb] improvement <once> <after which this unit is consumed>"],
+		"cost": 170
+	},
+	
+	{
+		"name": "Solid",
+		"unitType": "Civilian",
+		"movement": 5,
+		"requiredTech": "Agriculture",
+		"uniques": [
+			"Can instantly construct a [Volcano] improvement <once> <after which this unit is consumed>"],
+		"cost": 280
+	}
+]
