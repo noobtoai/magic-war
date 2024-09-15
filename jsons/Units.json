@@ -6,7 +6,7 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Steam Power",
 		"uniques": [
-			"Can instantly construct a [Water Bomb] improvement <once> <after which this unit is consumed>"],
+			"Can instantly construct a [Water Bomb] improvement <once>"],
 		"cost": 170
 	},
 	
@@ -16,7 +16,7 @@
 		"movement": 5,
 		"requiredTech": "Agriculture",
 		"uniques": [
-			"Can instantly construct a [Volcano] improvement <once> <after which this unit is consumed>"],
+			"Can instantly construct a [Volcano] improvement <once>"],
 		"cost": 280
 	}
 ]
