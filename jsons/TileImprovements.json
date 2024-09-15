@@ -1,1 +1,18 @@
-
+[
+	{
+		"name": "Water Bomb",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra"],
+		"uniques": [
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Canal] tile",
+			"Canal"]
+	},
+  {
+		"name": "Volcano",
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Coast","Water  "],
+		"uniques": [
+			"Turn this tile into a [Land] tile",
+			"Turn this tile into a [Goremu] tile",
+			"Mountain"]
+	}
+]
