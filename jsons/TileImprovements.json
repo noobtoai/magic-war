@@ -9,9 +9,9 @@
 	},
   {
 		"name": "Volcano",
-		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Coast","Water  "],
+		"terrainsCanBeBuiltOn": ["Hill","Plains","Grassland","Desert","Tundra","Coast","Ocean"],
 		"uniques": [
-			"Turn this tile into a [Land] tile",
+			"Turn this tile into a [Mountain] tile",
 			"Turn this tile into a [Goremu] tile",
 			"Mountain"]
 	}
